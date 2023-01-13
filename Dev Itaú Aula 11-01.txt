@@ -1,0 +1,19 @@
+Sprint: Período de tempo em que precisamos entregar algo.
+
+Daily: É uma reunião diária de curta duração para aliamento entre os membros da equipe, onde se ajusta o rítmo imediato da mesma.
+
+Scrun master: Pessoa responsável por liderar a equipe, de forma a gerenciar o andamento das tarefas a serem feitas.
+
+Po: É o dono do produto.
+
+Skuad: A equipe responsável pelo desenvolvimento da tarefa.
+
+Backlog: É uma lista de tarefas.
+
+Sprint planig: Planejamento da sprint.
+
+Camban: Uma maneira de organizar as tarefas.
+
+https://www.devmedia.com.br/uma-visao-geral-sobre-o-scrum/24470
+
+https://www.devmedia.com.br/uma-visao-geral-sobre-o-scrum/24470

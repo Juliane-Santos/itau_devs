@@ -1,4 +1,4 @@
-package exercicios.aula;
+package exercicios.aulasDaPlaylistDoProfessorIsidro;
 
 import java.util.Scanner;
 
